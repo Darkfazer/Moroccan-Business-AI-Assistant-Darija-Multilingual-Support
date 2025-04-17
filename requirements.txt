@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+asyncpg==0.27.0
+python-dotenv==1.0.0
+openai==0.27.8
+google-cloud-translate==2.0.1
+twilio==8.3.0
